@@ -5,8 +5,8 @@ Backend on FastAPI with BeautifulSoup, MongoDB and Kafka.
 1. Clone the repository:
 
 ```
-$ git clone git@github.com:may42day/car-dealership.git
-$ cd car-dealership
+$ git clone git@github.com:may42day/parser-twitch-lamoda.git
+$ cd parser-twitch-lamoda
 ```
 2. Fill in .env file or use .env_example:
 ```
