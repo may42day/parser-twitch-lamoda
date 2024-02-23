@@ -1,0 +1,25 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+fastapi = "*"
+uvicorn = {extras = ["standard"], version = "*"}
+requests = "*"
+pytest = "*"
+python-dotenv = "*"
+beautifulsoup4 = "*"
+pymongo = "*"
+install = "*"
+motor = "*"
+httpx = "*"
+pydantic-settings = "*"
+fastapi-cache2 = "*"
+aiokafka = "*"
+redis = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.10"

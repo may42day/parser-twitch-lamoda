@@ -1,0 +1,9 @@
+data
+tests
+pytest.ini
+venv
+.env_example
+.gitignore
+pytest.ini
+README.md
+logs
